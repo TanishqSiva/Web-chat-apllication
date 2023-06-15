@@ -7,9 +7,11 @@ This is a simple web chat application built using HTML, CSS, and JavaScript (van
 ![image](https://github.com/TanishqSiva/Web-chat-apllication/assets/127381848/1063f2fd-53b0-4dbb-bdb0-bbd854b31999)
 
 
-## Live Link
+##  🔗Live Link
+https://glittering-squirrel-94b511.netlify.app/
 
 <hr>
+
 ## Features
 
 - Real-time messaging: Users can send and receive messages in real-time.
