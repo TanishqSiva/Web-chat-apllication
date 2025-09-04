@@ -47,9 +47,6 @@ You can customize the web chat application according to your requirements. Here 
 
 Contributions to this web chat application are welcome. If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request on the project repository.
 
-## License
-
-This web chat application is released under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license.
 
 ## Acknowledgments
 
